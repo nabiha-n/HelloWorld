@@ -5,3 +5,4 @@ test1
 if =
 azety
 nb
+testing 1..2..3
